@@ -10,7 +10,7 @@
 - 💬 Ask me about **Node Js**
 
 - 📫 How to reach me **mishrautkarsh139@gmail.com**
-- 📄 <b>Resume:</b> [Download](./Utkarsh_Mishra_Resume.pdf)
+- 📄 <b>Resume:</b> [Download](./Utkarsh_Resume(1).pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
